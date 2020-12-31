@@ -1,2 +1,2 @@
 # SMG
-Sensorimotor Graph: thesis source code repository
+Sensorimotor Graph: Action-Conditioned Relational Forward ModelLearning of Robotic Soft Hand Dynamics
